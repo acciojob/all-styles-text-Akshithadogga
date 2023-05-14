@@ -3,15 +3,19 @@
 .main{
 	background-color: purple;
 	border-left:5px solid green;
+/* 	border-left-color:green; */
 	width: 200px;
 	color: white;	
 	font-size:20px;
+	padding:10px;
 	
 }
 h4{
 		padding:10px;
 }
-
+/* .heading{
+	padding:10px;
+} */
 	
 	
 	
